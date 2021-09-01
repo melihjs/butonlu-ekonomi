@@ -1,0 +1,11 @@
+{
+  "name": "buton-bot",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "0.0.7",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "parse-ms": "^2.1.0"
+  }
+}
